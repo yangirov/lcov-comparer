@@ -1,0 +1,28 @@
+{
+  "name": "lcov-comparer",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Visual diff between two lcov.info reports",
+  "main": "lib/compare.js",
+  "bin": {
+    "lcov-comparer": "./bin/lcov-comparer.js"
+  },
+  "keywords": [
+    "coverage",
+    "lcov",
+    "diff",
+    "vitest",
+    "jest",
+    "report"
+  ],
+  "license": "MIT",
+  "author": "Emil Yangirov (yangirov)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangirov/lcov-comparer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yangirov/lcov-comparer/issues"
+  },
+  "homepage": "https://github.com/yangirov/lcov-comparer#readme"
+}

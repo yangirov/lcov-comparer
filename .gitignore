@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Coverage
+coverage/
+*.lcov
+lcov*.info
+coverage-diff.html
+
+# OS/system
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
