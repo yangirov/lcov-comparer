@@ -1,7 +1,7 @@
 {
   "name": "lcov-comparer",
   "type": "commonjs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Visual diff between two lcov.info reports",
   "main": "lib/main.js",
   "keywords": [
